@@ -19,3 +19,13 @@ C:\Users\Kiril\Desktop\Eli\Image Downsizer\obj\Debug\Image Downsizer.csproj.Gene
 C:\Users\Kiril\Desktop\Eli\Image Downsizer\obj\Debug\Image Downsizer.csproj.CoreCompileInputs.cache
 C:\Users\Kiril\Desktop\Eli\Image Downsizer\obj\Debug\Image Downsizer.exe
 C:\Users\Kiril\Desktop\Eli\Image Downsizer\obj\Debug\Image Downsizer.pdb
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\bin\Debug\Image Downsizer.exe.config
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\bin\Debug\Image Downsizer.exe
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\bin\Debug\Image Downsizer.pdb
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image Downsizer.csproj.AssemblyReference.cache
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image_Downsizer.Form1.resources
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image_Downsizer.Properties.Resources.resources
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image Downsizer.csproj.GenerateResource.cache
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image Downsizer.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image Downsizer.exe
+C:\Users\Kiril\Source\Repos\ImageDownsizerParallelProgramming\Image Downsizer\obj\Debug\Image Downsizer.pdb
