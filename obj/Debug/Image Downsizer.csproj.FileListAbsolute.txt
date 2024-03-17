@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\bin\Debug\Image Downsizer.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\bin\Debug\Image Downsizer.exe
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\bin\Debug\Image Downsizer.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image_Downsizer.Form1.resources
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image_Downsizer.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.exe
+C:\Users\Lenovo\OneDrive\Desktop\Image Downsizer\Image Downsizer\obj\Debug\Image Downsizer.pdb
